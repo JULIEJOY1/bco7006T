@@ -1,3 +1,3 @@
 #put your name in the variable below
-name = "JJ Julie Joy"
+name = "JJ Julie J"
 print("Hello", name)
